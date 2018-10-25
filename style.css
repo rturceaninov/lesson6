@@ -1,0 +1,22 @@
+html{
+  font-size: 100%;
+}
+*{
+  box-sizing: border-box;
+}
+.container{
+  display: table;
+  width: 300px;
+  height: 380px;
+  background-color:lightgray;
+  border: 0.2rem solid gray;
+}
+ibput,
+select,
+textarea,
+{
+  margin: 0.1rem;
+  display: block;
+}
+
+
